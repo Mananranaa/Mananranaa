@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Mananranaa, I am aspiring data analyst. 
-- I am looking to work on real time projects.
-- I have worked on some projects. 
-- Here are my contact details - manan8rana@gmail.com
-- 
+Powerbi_projects 
