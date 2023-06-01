@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Mananranaa.
+- 👋 Hi, I’m @Mananranaa, I am aspiring data analyst. 
+- I am looking to work on real time projects.
+- I have worked on some projects. 
+- Here are my contact details - manan8rana@gmail.com
 - 
-
-<!---
-Mananranaa/Mananranaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
